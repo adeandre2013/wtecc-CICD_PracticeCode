@@ -6,6 +6,14 @@ from service import app
 from service.common import status
 
 COUNTER = {}
+s = 1
+x = 10
+y = 11
+
+feature = "new feature 1"
+feature2 = "new feature 2"
+feature3 = "new feature 3"
+feature4 = "new feature 4"
 
 
 ############################################################
